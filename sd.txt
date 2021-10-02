@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>ZOMBS.IO HACK!!!</title>
+  <meta name="description" value="go to gear icon or press [/], !commands for commands">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" media="all" href="/packs/css/application-55e0a71d.css" />
+  <script src="/packs/js/application-b59d2a8c2521bbdb840f.js"></script>
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="coIYY3N1e4ze4_cRw8mPmrUq0XtN6fokE_iy4PmWjjrqpntQb9RATRrYENWQNAFVS1HXDY-3UNrd_13FuFVWbg" />
+  <link rel="canonical" href="https://greasyfork.org/en/scripts/430959-zombs-io-hack">
+  <link rel="icon" href="/packs/media/images/blacklogo16-5421a97c75656cecbe2befcec0778a96.png">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <link rel="alternate" hreflang="x-default" href="/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="ar" href="/ar/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="bg" href="/bg/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="cs" href="/cs/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="da" href="/da/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="de" href="/de/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="el" href="/el/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="en" href="/en/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="eo" href="/eo/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="es" href="/es/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="fi" href="/fi/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="fr" href="/fr/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="fr-CA" href="/fr-CA/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="he" href="/he/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="hu" href="/hu/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="id" href="/id/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="it" href="/it/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="ja" href="/ja/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="ko" href="/ko/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="nb" href="/nb/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="nl" href="/nl/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="pl" href="/pl/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="pt-BR" href="/pt-BR/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="ro" href="/ro/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="ru" href="/ru/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="sk" href="/sk/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="sr" href="/sr/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="sv" href="/sv/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="th" href="/th/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="tr" href="/tr/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="uk" href="/uk/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="ug" href="/ug/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="vi" href="/vi/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="zh-CN" href="/zh-CN/scripts/430959-zombs-io-hack">
+      <link rel="alternate" hreflang="zh-TW" href="/zh-TW/scripts/430959-zombs-io-hack">
+
+      <link rel="alternate" type="application/json" href="/en/scripts/430959-zombs-io-hack.json" >
+      <link rel="alternate" type="application/javascript" href="/en/scripts/430959-zombs-io-hack.jsonp?callback=callback" >
+
+  <link rel="search" href="/en/opensearch.xml" type="application/opensearchdescription+xml" title="Greasy Fork search" hreflang="en">
+
+    <script async src="https://media.ethicalads.io/media/client/ethicalads.min.js"></script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-48197018-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+      gtag('config', 'UA-48197018-1');
+  </script>
+
+    <meta name="twitter:card" content="summary">
+  <meta property="og:title" content="ZOMBS.IO HACK!!!">
+  <meta property="og:url" content="https://greasyfork.org/scripts/430959-zombs-io-hack">
+  <meta property="og:description" content="go to gear icon or press [/], !commands for commands">
+
+</head>
+<body>
+
+  <header id="main-header">
+    <div class="width-constraint">
+      <div id="site-name">
+        <a href="/en"><img src="/packs/media/images/blacklogo96-b2384000fca45aa17e45eb417cbcbb59.png" alt=""></a>
+        <div id="site-name-text">
+          <h1><a href="/en">Greasy Fork</a></h1>
+        </div>
+      </div>
+      <div id="site-nav">
+        <div id="nav-user-info">
+            <span class="sign-in-link"><a rel="nofollow" href="/en/users/sign_in?return_to=%2Fen%2Fscripts%2F430959-zombs-io-hack">Sign in</a></span>
+
+          <form id="language-selector" action="/scripts/430959-zombs-io-hack">
+            <select id="language-selector-locale" name="locale" data-translate-url="https://github.com/JasonBarnabe/greasyfork/wiki/Translating-Greasy-Fork">
+                  <option data-language-url="/ar/scripts/430959-zombs-io-hack" value="ar">
+                    العَرَبِيةُ (ar)
+                  </option>
+                  <option data-language-url="/bg/scripts/430959-zombs-io-hack" value="bg">
+                    Български (bg)
+                  </option>
+                  <option data-language-url="/cs/scripts/430959-zombs-io-hack" value="cs">
+                    Čeština (cs)
+                  </option>
+                  <option data-language-url="/da/scripts/430959-zombs-io-hack" value="da">
+                    Dansk (da)
+                  </option>
+                  <option data-language-url="/de/scripts/430959-zombs-io-hack" value="de">
+                    Deutsch (de)
+                  </option>
+                  <option data-language-url="/el/scripts/430959-zombs-io-hack" value="el">
+                    Ελληνικά (el)
+                  </option>
+                  <option data-language-url="/en/scripts/430959-zombs-io-hack" value="en" selected>
+                    English (en)
+                  </option>
+                  <option data-language-url="/eo/scripts/430959-zombs-io-hack" value="eo">
+                    Esperanto (eo)
+                  </option>
+                  <option data-language-url="/es/scripts/430959-zombs-io-hack" value="es">
+                    Español (es)
+                  </option>
+                  <option data-language-url="/fi/scripts/430959-zombs-io-hack" value="fi">
+                    Suomi (fi)
+                  </option>
+                  <option data-language-url="/fr/scripts/430959-zombs-io-hack" value="fr">
+                    Français (fr)
+                  </option>
+                  <option data-language-url="/fr-CA/scripts/430959-zombs-io-hack" value="fr-CA">
+                    Français canadien (fr-CA)
+                  </option>
+                  <option data-language-url="/he/scripts/430959-zombs-io-hack" value="he">
+                    עברית (he)
+                  </option>
+                  <option data-language-url="/hu/scripts/430959-zombs-io-hack" value="hu">
+                    Magyar (hu)
+                  </option>
+                  <option data-language-url="/id/scripts/430959-zombs-io-hack" value="id">
+                    Bahasa Indonesia (id)
+                  </option>
+                  <option data-language-url="/it/scripts/430959-zombs-io-hack" value="it">
+                    Italiano (it)
+                  </option>
+                  <option data-language-url="/ja/scripts/430959-zombs-io-hack" value="ja">
+                    日本語 (ja)
+                  </option>
+                  <option data-language-url="/ko/scripts/430959-zombs-io-hack" value="ko">
+                    한국어 (ko)
+                  </option>
+                  <option data-language-url="/nb/scripts/430959-zombs-io-hack" value="nb">
+                    Bokmål (nb)
+                  </option>
+                  <option data-language-url="/nl/scripts/430959-zombs-io-hack" value="nl">
+                    Nederlands (nl)
+                  </option>
+                  <option data-language-url="/pl/scripts/430959-zombs-io-hack" value="pl">
+                    Polski (pl)
+                  </option>
+                  <option data-language-url="/pt-BR/scripts/430959-zombs-io-hack" value="pt-BR">
+                    Português do Brasil (pt-BR)
+                  </option>
+                  <option data-language-url="/ro/scripts/430959-zombs-io-hack" value="ro">
+                    Română (ro)
+                  </option>
+                  <option data-language-url="/ru/scripts/430959-zombs-io-hack" value="ru">
+                    Русский (ru)
+                  </option>
+                  <option data-language-url="/sk/scripts/430959-zombs-io-hack" value="sk">
+                    Slovenčina (sk)
+                  </option>
+                  <option data-language-url="/sr/scripts/430959-zombs-io-hack" value="sr">
+                    srpski (sr)
+                  </option>
+                  <option data-language-url="/sv/scripts/430959-zombs-io-hack" value="sv">
+                    Svenska (sv)
+                  </option>
+                  <option data-language-url="/th/scripts/430959-zombs-io-hack" value="th">
+                    ภาษาไทย (th)
+                  </option>
+                  <option data-language-url="/tr/scripts/430959-zombs-io-hack" value="tr">
+                    Türkçe (tr)
+                  </option>
+                  <option data-language-url="/uk/scripts/430959-zombs-io-hack" value="uk">
+                    Українська (uk)
+                  </option>
+                  <option data-language-url="/ug/scripts/430959-zombs-io-hack" value="ug">
+                    ئۇيغۇر (ug)
+                  </option>
+                  <option data-language-url="/vi/scripts/430959-zombs-io-hack" value="vi">
+                    Tiếng Việt (vi)
+                  </option>
+                  <option data-language-url="/zh-CN/scripts/430959-zombs-io-hack" value="zh-CN">
+                    简体中文 (zh-CN)
+                  </option>
+                  <option data-language-url="/zh-TW/scripts/430959-zombs-io-hack" value="zh-TW">
+                    繁體中文 (zh-TW)
+                  </option>
+              <option value="help">Help us translate!</option>
+            </select><input id="language-selector-submit" type="submit" value="→">
+            <script>
+              /* submit is handled by js if enabled */
+              document.getElementById("language-selector-submit").style.display = "none"
+            </script>
+          </form>
+        </div>
+        <nav>
+          <li class="scripts-index-link"><a href="/en/scripts">Scripts</a></li>
+          <li class="forum-link"><a href="/en/discussions">Forum</a></li>
+          <li class="help-link"><a href="/en/help">Help</a></li>
+          <li class="with-submenu">
+            <a href="#" onclick="return false">More</a>
+            <nav>
+              <li><a href="/en/search">Advanced search</a></li>
+              <li><a href="/en/users">User list</a></li>
+              <li><a href="/en/scripts/libraries">Libraries</a></li>
+              <li><a href="/en/moderator_actions">Moderator log</a></li>
+            </nav>
+          </li>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <div class="width-constraint">
+
+      <section id="script-info">
+    <ul id="script-links" class="tabs">
+      <li class="current"><span>Info</span></li>
+      <li><a href="/en/scripts/430959-zombs-io-hack/code"><span>Code</span></a></li>
+      <li><a href="/en/scripts/430959-zombs-io-hack/versions"><span>History</span></a></li>
+      <li><a href="/en/scripts/430959-zombs-io-hack/feedback"><span>Feedback (1)</span></a></li>
+      <li><a href="/en/scripts/430959-zombs-io-hack/stats"><span>Stats</span></a></li>
+    </ul>
+    <header>
+      <h2>ZOMBS.IO HACK!!!</h2>
+      <p id="script-description" class="script-description">go to gear icon or press [/], !commands for commands</p>
+    </header>
+    <div id="script-content">
+      
+      <div id="install-area">
+          <a class="install-link" data-install-format="js" data-ping-url="/scripts/430959-zombs-io-hack/install-ping" data-ip-address="2001:41d0:c:a96::2:32" data-script-id="430959" data-ping-key="9feaa50fe40ae09f00e7" data-is-previous-version="false" data-previous-version-warning="This is not the latest version of this script. If you install it, you will never be updated to a newer version. Install anyway?" rel="nofollow" data-script-name="ZOMBS.IO HACK!!!" data-script-namespace="-" data-script-version="null" data-update-label="Update to version null" data-downgrade-label="Downgrade to version null" data-reinstall-label="Reinstall version null" href="/scripts/430959-zombs-io-hack/code/ZOMBSIO%20HACK!!!.user.js">Install this script</a><a class="install-help-link" title="How to install" rel="nofollow" href="/en/help/installing-user-scripts">?</a>
+      </div>
+
+
+
+<div id="installation-instructions-modal-js" class="modal micromodal-slide" aria-hidden="true">
+  <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+    <div class="modal__container" role="dialog" aria-modal="true">
+      <header class="modal__header" aria-labelledby="installation-instructions-modal-title">
+        <h3 class="modal__title" id="installation-instructions-modal-title">
+          How to install
+        </h3>
+        <button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
+      </header>
+      <main class="modal__content" id="installation-instructions-modal-content">
+        <p class="installation-instructions-modal-content-firefox">
+          You will need to install an extension such as <a target="tampermonkey" href="https://addons.mozilla.org/firefox/addon/tampermonkey/">Tampermonkey</a>, <a target="greasemonkey" href="https://addons.mozilla.org/firefox/addon/greasemonkey/">Greasemonkey</a> or <a target="violentmonkey" href="https://addons.mozilla.org/firefox/addon/violentmonkey/">Violentmonkey</a> to install this script.
+        </p>
+        <p class="installation-instructions-modal-content-chrome">
+          You will need to install an extension such as <a target="tampermonkey" href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a> or <a target="violentmonkey" href="https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag">Violentmonkey</a> to install this script.
+        </p>
+        <p class="installation-instructions-modal-content-opera">
+          You will need to install an extension such as <a target="tampermonkey" href="https://addons.opera.com/extensions/details/tampermonkey-beta/">Tampermonkey</a> or <a target="violentmonkey" href="https://violentmonkey.github.io/get-it/">Violentmonkey</a> to install this script.
+        </p>
+        <p class="installation-instructions-modal-content-safari">
+          You will need to install an extension such as <a target="tampermonkey" href="https://addons.opera.com/extensions/details/tampermonkey-beta/">Tampermonkey</a> or <a target="Userscripts" href="https://apps.apple.com/app/userscripts/id1463298887">Userscripts</a> to install this script.
+        </p>
+        <p class="installation-instructions-modal-content-other">
+          You will need to install a user script manager extension to install this script.
+        </p>
+        <p class="installation-instructions-modal-content-bypass">
+          <a href="#">(I already have a user script manager, let me install it!)</a>
+        </p>
+      </main>
+      <footer class="modal__footer">
+        <button class="modal__btn modal__btn-primary" data-micromodal-close data-micromodal-accept>
+          OK
+        </button>
+      </footer>
+    </div>
+  </div>
+</div>
+
+<div id="installation-instructions-modal-css" class="modal micromodal-slide" aria-hidden="true">
+  <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+    <div class="modal__container" role="dialog" aria-modal="true">
+      <header class="modal__header" aria-labelledby="installation-instructions-modal-title">
+        <h3 class="modal__title" id="installation-instructions-modal-title">
+          How to install
+        </h3>
+        <button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
+      </header>
+      <main class="modal__content" id="installation-instructions-modal-content">
+        <p class="installation-instructions-modal-content-firefox">
+          You will need to install an extension such as <a target="stylus" href="https://addons.mozilla.org/firefox/addon/styl-us/">Stylus</a> to install this script.
+        </p>
+        <p class="installation-instructions-modal-content-chrome">
+          You will need to install an extension such as <a target="stylus" href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne">Stylus</a> to install this script.
+        </p>
+        <p class="installation-instructions-modal-content-opera">
+          You will need to install an extension such as <a target="stylus" href="https://addons.opera.com/extensions/details/stylus/">Stylus</a> to install this script.
+        </p>
+        <p class="installation-instructions-modal-content-safari">
+          You will need to install a user style manager extension to install this script.
+        </p>
+        <p class="installation-instructions-modal-content-other">
+          You will need to install a user style manager extension to install this script.
+        </p>
+        <p class="installation-instructions-modal-content-bypass">
+          <a href="#">(I already have a user style manager, let me install it!)</a>
+        </p>
+      </main>
+      <footer class="modal__footer">
+        <button class="modal__btn modal__btn-primary" data-micromodal-close data-micromodal-accept>
+          OK
+        </button>
+      </footer>
+    </div>
+  </div>
+</div>
+
+
+  <div class="ad ad-ea" id="script-show-info-ad">
+    <div class="ad-content">
+        <div id="script-show-ea" class="flat ethical-ads" data-ea-publisher="greasyfork" data-ea-type="text"></div>
+        <div class="ad carbon-ad" style="display: none">
+          <div id="_carbonads_js" data-src="https://cdn.carbonads.com/carbon.js?serve=CKYI5KQU&placement=greasyforkorg"></div>
+        </div>
+    </div>
+  </div>
+
+  
+
+<div id="script-feedback-suggestion">
+    <a rel="nofollow" href="/en/scripts/430959-zombs-io-hack/feedback#post-discussion">Ask a question, post a review</a>, or <a rel="nofollow" href="/en/reports/new?item_class=script&amp;item_id=430959">report the script</a>.
+</div>
+
+
+<div id="script-meta">
+  <dl id="script-stats" class="inline-script-stats">
+    <dt class="script-show-author"><span>Author</span></dt>
+    <dd class="script-show-author"><span><a href="/en/users/802103-merak-edi-lenler">MERAK EDİLENLER</a></span></dd>
+    <dt class="script-show-daily-installs"><span>Daily installs</span></dt>
+    <dd class="script-show-daily-installs"><span>63</span></dd>
+    <dt class="script-show-total-installs"><span>Total installs</span></dt>
+    <dd class="script-show-total-installs"><span>2,011</span></dd>
+    <dt class="script-list-ratings"><span>Ratings</span></dt>
+    <dd class="script-list-ratings"><span><span class="good-rating-count" title="Number of people who rated it Good or added it to favorites.">1</span>
+<span class="ok-rating-count" title="Number of people who rated it OK.">1</span>
+<span class="bad-rating-count" title="Number of people who rated it Bad.">0</span>
+</span></dd>
+    <dt class="script-show-version"><span>Version</span></dt>
+    <dd class="script-show-version"><span>null</span></dd>
+    <dt class="script-show-created-date"><span>Created</span></dt>
+    <dd class="script-show-created-date"><span><gf-relative-time datetime="2021-08-17T11:30:12+00:00">2021-08-17</gf-relative-time></span></dd>
+    <dt class="script-show-updated-date"><span>Updated</span></dt>
+    <dd class="script-show-updated-date"><span><gf-relative-time datetime="2021-08-17T11:30:11+00:00">2021-08-17</gf-relative-time></span></dd>
+    <dt class="script-show-license"><span>License</span></dt>
+    <dd class="script-show-license"><span><i>N/A</i></span></dd>
+  </dl>
+    <div>
+      <dl id="script-applies-to" class="inline-script-stats" data-show-more-text="Show more" data-show-less-text="Show less">
+        <dt class="script-show-applies-to"><span>Applies to</span></dt>
+        <dd class="script-show-applies-to">
+            <ul class="inline-list">
+                <li><a title="See 55 other scripts for zombs.io" href="/en/scripts/by-site/zombs.io">zombs.io</a></li>
+            </ul>
+        </dd>
+      </dl>
+    </div>
+</div>
+
+
+    </div>
+  </section>
+
+  </div>
+</body>
+</html>
